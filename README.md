@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Shah Nawaj</h1>
 <h3 align="center">Aspiring Data Scientist | Building Skills, Solving Problems</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=70CFFF&center=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+data+into+insights" />
+</p>
+
 ---
 
 
