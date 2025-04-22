@@ -40,21 +40,13 @@
 
 ---
 
-📊 **GitHub Stats**
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Md-ShahNawaj&show_icons=true&theme=tokyonight" />
 </p>
 
-## 🛠️ Languages and Tools: Python and Jupyter Notebooks
-
-<a href="https://github.com/yourusername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide=Batchfile&langs_count=10" alt="Top Languages" />
-</a>
-
-### 📊 GitHub Stats
-
-![Md-ShahNawaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-ShahNawaj&show_icons=true&theme=tokyonight)
+### 🛠️ Languages and Tools: Python and Jupyter Notebooks
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-ShahNawaj&layout=compact&theme=tokyonight)
 
