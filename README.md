@@ -52,6 +52,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide=Batchfile&langs_count=10" alt="Top Languages" />
 </a>
 
+### 📊 GitHub Stats
+
+![Md-ShahNawaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-ShahNawaj&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-ShahNawaj&layout=compact&theme=tokyonight)
+
 ### Connect with me:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shah-nawaj-017a282b3/)
