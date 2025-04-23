@@ -33,25 +33,18 @@
 
 ---
 
-📫 **Let's connect**
-
-- [LinkedIn Profile](https://www.linkedin.com/in/md-shah-nawaj-017a282b3/)
-- 📬 Email: *(Add your email if you'd like it public)*
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Md-ShahNawaj&show_icons=true&theme=tokyonight" />
 </p>
-
+---
 ### 🛠️ Languages and Tools: Python and Jupyter Notebooks
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-ShahNawaj&layout=compact&theme=tokyonight)
-
-### Connect with me:
-
+---
+### 📫 Connect with me:
+- [![Gmail](https://img.shields.io/badge/gmail-20BEFF?style=for-the-badge&logo=gmail&logoColor=white)](https://www.kaggle.com/shahnawaj9)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shah-nawaj-017a282b3/)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FCC419?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dd8DiZzgtP/)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahnawaj9)
