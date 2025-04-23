@@ -53,4 +53,4 @@
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FCC419?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dd8DiZzgtP/)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahnawaj9)
 
-[![Resume](https://img.shields.io/badge/Resume-orange?style=for-the-badge)](https://drive.google.com/file/d/10s6N5ek7Yl2XZ6QwQvsYYwVvKlnBIuLr/view?usp=drive_link)
+## 📃 [![Resume](https://img.shields.io/badge/Resume-orange?style=for-the-badge)](https://drive.google.com/file/d/10s6N5ek7Yl2XZ6QwQvsYYwVvKlnBIuLr/view?usp=drive_link)
