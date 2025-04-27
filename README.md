@@ -67,6 +67,6 @@ Backend: PHP
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shah-nawaj-017a282b3/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahnawaj9)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FCC419?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dd8DiZzgtP/)  
-[![Resume](https://img.shields.io/badge/Resume-orange?style=for-the-badge)](https://drive.google.com/file/d/1spmrKvkSbZJzpCvYgAXYgar_mXhMgMIx/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-orange?style=for-the-badge)](https://drive.google.com/file/d/1lPadKveczJLren67EKBGIeeUZ2xCyQdg/view?usp=sharing)
 
 ---
