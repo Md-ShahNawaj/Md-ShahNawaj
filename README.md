@@ -71,7 +71,7 @@ Backend: PHP
 [![Email](https://img.shields.io/badge/Email-nawaj.msn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawaj.msn@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shah-nawaj-017a282b3/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahnawaj9)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FCC419?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dd8DiZzgtP/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FCC419?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shah_Nawaj/)  
 [![Resume](https://img.shields.io/badge/Resume-orange?style=for-the-badge)](https://drive.google.com/file/d/1Ze_Zqmb6KonP3cKv5qbGYyblzFp0B5oN/view?usp=sharing)
 
 ---
