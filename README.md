@@ -31,13 +31,20 @@ Backend: PHP
 
 ### 🚀 Projects
 
-- 🔍 [**Earthquake Anomaly Detection**](https://www.kaggle.com/code/shahnawaj9/earthquake-anomaly-detection/edit)  
+
+-  [**online-retail-data-analysis-python-sql-powerbi**](https://github.com/Md-ShahNawaj/online-retail-data-analysis-python-sql-powerbi)  
+   An excel dashboard project analyzing customer behavior and sales performance using the UCI Online Retail II dataset. This project uncovers key insights into customer segmentation,        churn, order behavior, and regional sales distribution.
+
+-  [**Retail_Data_Analysis_Dashboard**](https://github.com/Md-ShahNawaj/Retail_Data_Analysis_Dashboard)  
+   An excel dashboard project analyzing customer behavior and sales performance using the UCI Online Retail II dataset. This project uncovers key insights into customer segmentation,        churn, order behavior, and regional sales distribution.
+
+-  [**Earthquake Anomaly Detection**](https://www.kaggle.com/code/shahnawaj9/earthquake-anomaly-detection/edit)  
   Detected seismic anomalies using unsupervised ML on time-series data.
 
-- 🧬 [**Type 2 Diabetes Risk Prediction**](https://www.kaggle.com/code/shahnawaj9/type-2-diabetes-risk-prediction)  
+-  [**Type 2 Diabetes Risk Prediction**](https://www.kaggle.com/code/shahnawaj9/type-2-diabetes-risk-prediction)  
   Predictive modeling with classification algorithms for medical risk assessment.
 
-- ⚽ [**Football World Cup 2022 Website**](https://github.com/Md-ShahNawaj/football-worldcup-2022)  
+-  [**Football World Cup 2022 Website**](https://github.com/Md-ShahNawaj/football-worldcup-2022)  
   Award-winning full-stack website featuring real-time updates.
 
 ---
