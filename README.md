@@ -2,7 +2,7 @@
 <h3 align="center">Open to Data Science & Analyst Roles | MSc Data Science @ Aston University | Actively Building Real-World Projects</h3>
 
 <p align="center">
-![Profile views](https://komarev.com/ghpvc/?username=Md-ShahNawaj&color=blue)  
+  <img src="https://readme-typing-svg.herokuapp.com?color=70CFFF&center=true&width=500&lines=Data+Science+%7C+Python+%7C+Power+BI+%7C+SQL;Turning+Data+Into+Decisions+That+Matter" />
 </p>
 
 ---
