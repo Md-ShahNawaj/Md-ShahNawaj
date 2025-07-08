@@ -15,20 +15,6 @@
 
 ---
 
-### Tech Stack
-
-**Languages & Tools**  
-`Python` | `SQL` | `R` | `Power BI` | `Excel` | `Jupyter` | `Git` | `Google Colab` | `VS Code`
-
-**Libraries**  
-`pandas` | `NumPy` | `scikit-learn` | `Matplotlib` | `Seaborn` | `TensorFlow` | `PyTorch`
-
-**Web Development**  
-Frontend: HTML, CSS, JavaScript  
-Backend: PHP
-
----
-
 ### Projects
 
 
@@ -46,6 +32,20 @@ Backend: PHP
 
 -  [**Football World Cup 2022 Website**](https://github.com/Md-ShahNawaj/football-worldcup-2022)  
   Award-winning full-stack website featuring real-time updates.
+
+---
+
+### Tech Stack
+
+**Languages & Tools**  
+`Python` | `SQL` | `R` | `Power BI` | `Excel` | `Jupyter` | `Git` | `Google Colab` | `VS Code`
+
+**Libraries**  
+`pandas` | `NumPy` | `scikit-learn` | `Matplotlib` | `Seaborn` | `TensorFlow` | `PyTorch`
+
+**Web Development**  
+Frontend: HTML, CSS, JavaScript  
+Backend: PHP
 
 ---
 
