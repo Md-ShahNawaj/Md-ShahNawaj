@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Shah Nawaj</h1>
+<h1 align="center">Hi, I'm Md Shah Nawaj</h1>
 <h3 align="center">Open to Data Science & Analyst Roles | MSc Data Science @ Aston University | Actively Building Real-World Projects</h3>
 
 <p align="center">
