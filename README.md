@@ -7,15 +7,15 @@
 
 ---
 
-### 🎯 About Me
-- 📍 Located in **Birmingham, UK**, MSc in Data Science at **Aston University**
-- 🧠 Interested in **Machine Learning, Analytics, and Real-world Data Applications**
-- 💼 Former **Data Analyst Intern** at InsightEdge Analytics, Bangladesh
-- 🌍 Passionate about solving problems that create real-world impact
+### About Me
+- Located in **Birmingham, UK**, MSc in Data Science at **Aston University**
+- Interested in **Machine Learning, Analytics, and Real-world Data Applications**
+- Former **Data Analyst Intern** at InsightEdge Analytics, Bangladesh
+- Passionate about solving problems that create real-world impact
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages & Tools**  
 `Python` | `SQL` | `R` | `Power BI` | `Excel` | `Jupyter` | `Git` | `Google Colab` | `VS Code`
@@ -29,7 +29,7 @@ Backend: PHP
 
 ---
 
-### 🚀 Projects
+### Projects
 
 
 -  [**online-retail-data-analysis-python-sql-powerbi**](https://github.com/Md-ShahNawaj/online-retail-data-analysis-python-sql-powerbi)  
@@ -49,15 +49,15 @@ Backend: PHP
 
 ---
 
-### 📚 Publication
+### Publication
 
-📝 *Enhancing Early Diagnosis and Classification of Type 2 Diabetes with Diabetic Retinopathy Using ML & Image Processing*  
-📅 *7ICOIACT, Nov 2024*  
+ *Enhancing Early Diagnosis and Classification of Type 2 Diabetes with Diabetic Retinopathy Using ML & Image Processing*  
+ *7ICOIACT, Nov 2024*  
 🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10912889)
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Md-ShahNawaj&show_icons=true&theme=tokyonight" />
@@ -73,7 +73,7 @@ Backend: PHP
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-nawaj.msn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawaj.msn@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shah-nawaj-017a282b3/)  
