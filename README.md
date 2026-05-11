@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-- Located in **Birmingham, UK**, MSc in Data Science at **Aston University**
+- Located in **London, UK**, MSc in Data Science at **Aston University**
 - Interested in **Machine Learning, Analytics, and Real-world Data Applications**
 - Former **Data Analyst Intern** at InsightEdge Analytics, Bangladesh
 - Passionate about solving problems that create real-world impact
